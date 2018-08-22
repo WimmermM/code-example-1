@@ -19,7 +19,7 @@
 ## 1-3. Complete the following tasks
 
  -  [Anti diagonal](anti-diagonal/AntiDiagonal.java)
- -  [Ends with S](ends-with-s/EndsWithS.java)
+ -  [Ends with S](ends-with-s/EndsWithS.java) and sample file [base.txt](ends-with-s/base.txt)
  -  [Library](library/library.ts)
 
 ### Acceptance criteria
@@ -34,3 +34,7 @@ The solution is accepted if:
 - You commit frequently with descriptive commit messages
 
 ## 4. Question time! (~10 mins) [2p]
+
+### Can you override a `private` or `static` method in Java?
+
+*type your answer here*

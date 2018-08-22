@@ -19,7 +19,7 @@
 ## 1-3. Complete the following tasks
 
  -  [Anti diagonal](anti-diagonal/antiDiagonal.ts)
- -  [Ends with S](ends-with-s/endsWithS.ts)
+ -  [Ends with S](ends-with-s/endsWithS.ts) and sample file [base.txt](ends-with-s/base.txt)
  -  [Library](library/library.ts)
 
 ### Acceptance criteria
@@ -34,3 +34,7 @@ The solution is accepted if:
 - You commit frequently with descriptive commit messages.
 
 ## 4. Question time! (~10 mins) [2p]
+
+### What is `namespace` in TypeScript? How to declare a `namespace` in TypeScript?
+
+*type your answer here*
