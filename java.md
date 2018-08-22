@@ -18,6 +18,10 @@
 
 ## 1-3. Complete the following tasks
 
+ -  [Anti diagonal](anti-diagonal/AntiDiagonal.java)
+ -  [Ends with S](ends-with-s/EndsWithS.java)
+ -  [Library](library/library.ts)
+
 ### Acceptance criteria
 
 The solution is accepted if:

@@ -18,6 +18,9 @@
 
 ## 1-3. Complete the following tasks
 
+ -  [Anti diagonal](anti-diagonal/antiDiagonal.ts)
+ -  [Ends with S](ends-with-s/endsWithS.ts)
+ -  [Library](library/library.ts)
 
 ### Acceptance criteria
 
