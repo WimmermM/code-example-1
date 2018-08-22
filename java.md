@@ -35,6 +35,6 @@ The solution is accepted if:
 
 ## 4. Question time! (~10 mins) [2p]
 
-### Can you override a `private` or `static` method in Java?
+### What do the `private` and `static` keyword mean? Can you override a `private` or `static` method in Java?
 
 *type your answer here*
