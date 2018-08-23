@@ -20,7 +20,7 @@
 
  -  [Anti diagonal](anti-diagonal/AntiDiagonal.java)
  -  [Ends with S](ends-with-s/EndsWithS.java) and sample file [base.txt](ends-with-s/base.txt)
- -  [Library](library/library.ts)
+ -  [Library](library/Library.java)
 
 ### Acceptance criteria
 
