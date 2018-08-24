@@ -5,7 +5,7 @@ public class AntiDiagonal {
    * which represents a square matrix, as a parameter and retruns the average of the numbers in the anti diagonal.
    *  - use only basic control flow statements, like 'for', 'if', etc.
    *  - do not use built-in methods like 'filter', 'forEach', 'map', etc.
-   *  - write test for 2 different scenarios (test file is provided: AntiDiagonalTest.java)
+   *  - write test for 2 different scenarios
    * 
    * Example cases:
    * [
