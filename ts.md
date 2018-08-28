@@ -35,6 +35,6 @@ The solution is accepted if:
 
 ## 4. Question time! (~10 mins) [2p]
 
-### What is `namespace` in TypeScript? How to declare a `namespace` in TypeScript?
+### What do the private and static keyword mean? How can you access a static method?
 
 *type your answer here*

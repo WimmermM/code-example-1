@@ -15,10 +15,10 @@ console.log(myShelf.toString());
 // Should print out:
 // You have no books here.
     
-myShelf.put("Douglas Adams", "The Hitchhiker's Guide to the Galaxy", 1979);
-myShelf.put("Douglas Adams", "Mostly Harmless", 1992);
-myShelf.put("Frank Herbert", "Dune", 1965);
-myShelf.put("Frank Herbert", "The Dragon in the Sea", 1957);
+myShelf.add("Douglas Adams", "The Hitchhiker's Guide to the Galaxy", 1979);
+myShelf.add("Douglas Adams", "Mostly Harmless", 1992);
+myShelf.add("Frank Herbert", "Dune", 1965);
+myShelf.add("Frank Herbert", "The Dragon in the Sea", 1957);
 myShelf.remove("The Dragon in the Sea");
 
 console.log(myShelf.toString());
