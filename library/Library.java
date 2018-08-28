@@ -16,10 +16,10 @@ public class Library {
     // Should print out:
     // You have no books here.
     
-    myShelf.put(new Book ("Douglas Adams", "The Hitchhiker's Guide to the Galaxy", 1979));
-    myShelf.put(new Book ("Douglas Adams", "Mostly Harmless", 1992));
-    myShelf.put(new Book ("Frank Herbert", "Dune", 1965));
-    myShelf.put(new Book ("Frank Herbert", "The Dragon in the Sea", 1957));
+    myShelf.add(new Book ("Douglas Adams", "The Hitchhiker's Guide to the Galaxy", 1979));
+    myShelf.add(new Book ("Douglas Adams", "Mostly Harmless", 1992));
+    myShelf.add(new Book ("Frank Herbert", "Dune", 1965));
+    myShelf.add(new Book ("Frank Herbert", "The Dragon in the Sea", 1957));
     myShelf.remove(new Book("The Dragon in the Sea"));
 
     System.out.println(myShelf.toString());
