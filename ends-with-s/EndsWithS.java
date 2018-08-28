@@ -7,6 +7,6 @@ public class EndsWithS {
    * Example cases:
    * 
    * the correct output for the 'base.txt' is: 26
-   * hint: there are some punctuation at the end of the words
+   * hint: Keep in mind that there may punctuation marks at the end of the words
    */
 }

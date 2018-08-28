@@ -2,7 +2,7 @@ public class AntiDiagonal {
 
    /**
    * Create and test a method called `getAntiDiagonalAvg` that takes a multidimensional array (only integers)
-   * which represents a square matrix, as a parameter and retruns the average of the numbers in the anti diagonal.
+   * which represents a square matrix, as a parameter and returns the average of the numbers in the anti diagonal.
    *  - write test for 2 different scenarios
    * 
    * Example cases:
