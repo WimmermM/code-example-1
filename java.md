@@ -18,9 +18,9 @@
 
 ## 1-3. Complete the following tasks
 
- -  [Anti diagonal](anti-diagonal/AntiDiagonal.java)
- -  [Ends with S](ends-with-s/EndsWithS.java) and sample file [base.txt](ends-with-s/base.txt)
- -  [Library](library/Library.java)
+ -  [Anti diagonal](anti-diagonal/AntiDiagonal.java) :green_apple: :green_apple:
+ -  [Ends with S](ends-with-s/EndsWithS.java) and sample file [base.txt](ends-with-s/base.txt) :green_apple: :green_apple:
+ -  [Library](library/Library.java) :green_apple: :green_apple: :green_apple:
 
 ### Acceptance criteria
 
@@ -33,7 +33,7 @@ The solution is accepted if:
 - The code is clean, without unnecessary repetition, and with descriptive names
 - You commit frequently with descriptive commit messages
 
-## 4. Question time! (~10 mins) [2p]
+## 4. Question time! (~10 mins) :green_apple:
 
 ### What do the `private` and `static` keyword mean? Can you override a `private` or `static` method in Java?
 

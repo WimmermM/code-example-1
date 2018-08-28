@@ -18,9 +18,9 @@
 
 ## 1-3. Complete the following tasks
 
- -  [Anti diagonal](anti-diagonal/antiDiagonal.ts)
- -  [Ends with S](ends-with-s/endsWithS.ts) and sample file [base.txt](ends-with-s/base.txt)
- -  [Library](library/library.ts)
+ -  [Anti diagonal](anti-diagonal/antiDiagonal.ts) :green_apple: :green_apple:
+ -  [Ends with S](ends-with-s/endsWithS.ts) and sample file [base.txt](ends-with-s/base.txt) :green_apple: :green_apple:
+ -  [Library](library/library.ts) :green_apple: :green_apple: :green_apple:
 
 ### Acceptance criteria
 
@@ -33,7 +33,7 @@ The solution is accepted if:
 - The code is clean, without unnecessary repetition, and with descriptive names.
 - You commit frequently with descriptive commit messages.
 
-## 4. Question time! (~10 mins) [2p]
+## 4. Question time! (~10 mins) :green_apple:
 
 ### What do the `private` and `static` keyword mean? How can you access a `static` method?
 
