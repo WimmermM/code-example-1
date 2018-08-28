@@ -37,4 +37,4 @@ The solution is accepted if:
 
 ### What do the `private` and `static` keyword mean? Can you override a `private` or `static` method in Java?
 
-*type your answer here*
+*type your answer here (please explain with your own words)*

@@ -35,6 +35,6 @@ The solution is accepted if:
 
 ## 4. Question time! (~10 mins) [2p]
 
-### What do the private and static keyword mean? How can you access a static method?
+### What do the `private` and `static` keyword mean? How can you access a `static` method?
 
-*type your answer here*
+*type your answer here (please explain with your own words)*
