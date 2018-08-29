@@ -20,7 +20,7 @@ public class Library {
     myShelf.add(new Book ("Douglas Adams", "Mostly Harmless", 1992));
     myShelf.add(new Book ("Frank Herbert", "Dune", 1965));
     myShelf.add(new Book ("Frank Herbert", "The Dragon in the Sea", 1957));
-    myShelf.remove(new Book("The Dragon in the Sea"));
+    myShelf.remove("The Dragon in the Sea");
 
     System.out.println(myShelf.toString());
     // Should print out:
