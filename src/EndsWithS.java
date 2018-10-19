@@ -33,8 +33,8 @@ public class EndsWithS {
             List<String> lines = Files.readAllLines(filePath);
             for (String line : lines) {
                 String[] words = line.replaceAll("\\W", " ").split(" ", newList.size());
-                for (String s : words) {
-                    if (s.toLowerCase().endsWith("s")) {
+                for (String string : words) {
+                    if (string.toLowerCase().endsWith("s")) {
                         result++;
                     }
 
