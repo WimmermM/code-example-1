@@ -1,4 +1,6 @@
-public class Library {
+import java.util.ArrayList;
+
+public class Library extends Bookshelf {
     public static void main(String[] args) {
         // Create a Book class, that has an author, a title and a release year
         // Create a constructor for setting those values
@@ -16,11 +18,12 @@ public class Library {
         // Should print out:
         // You have no books here.
 
-        myShelf.add(new Book ("Douglas Adams", "The Hitchhiker's Guide to the Galaxy", 1979));
-        myShelf.add(new Book ("Douglas Adams", "Mostly Harmless", 1992));
-        myShelf.add(new Book ("Frank Herbert", "Dune", 1965));
-        myShelf.add(new Book ("Frank Herbert", "The Dragon in the Sea", 1957));
-        myShelf.remove("The Dragon in the Sea");
+
+        myShelf.add(new Book("Douglas Adams", "The Hitchhiker's Guide to the Galaxy", 1979));
+        myShelf.add(new Book("Douglas Adams", "Mostly Harmless", 1992));
+        myShelf.add(new Book("Frank Herbert", "Dune", 1965));
+        myShelf.add(new Book("Frank Herbert", "The Dragon in the Sea", 1957));
+//        myShelf.remove("The Dragon in the Sea");
 
         System.out.println(myShelf.toString());
         // Should print out:

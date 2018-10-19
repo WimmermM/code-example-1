@@ -16,7 +16,7 @@ public class AntiDiagonal {
         int counter = 0;
         for (int i = 0; i < myArray.length; i++) {
             for (int j = 0; j < myArray[i].length; j++) {
-                if (i == j) {
+                if (i + j == myArray.length-1) {
 
                     number += myArray[i][j];
                     counter++;

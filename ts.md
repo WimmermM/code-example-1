@@ -38,3 +38,7 @@ The solution is accepted if:
 ### What do the `private` and `static` keyword mean? How can you access a `static` method?
 
 *type your answer here (please explain with your own words)*
+
+Private = that the value is only visible for its  class - others cant use it.
+Static = that the variable is shared by all instances of class.
+How can you access a `static` method? = zou can acces static variable only in its class.
