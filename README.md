@@ -1,4 +1,4 @@
-# Alopex Basic Exam
+# Prague Vulpes Basic Exam
 
 ## Getting Started
 
