@@ -21,6 +21,9 @@ public class EndsWithS {
     }
 
 
+    // function takes string parameter and return number of words ending with s
+    //function is reading from attached file and creating new list
+    //new list is converted to string array and then split to filter out all non words characters
     public static int endsWithS(String filename) {
         int result = 0;
         List<String> newList = new ArrayList<>();
